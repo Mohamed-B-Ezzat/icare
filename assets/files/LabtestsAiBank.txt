@@ -1,0 +1,485 @@
+Methodology Immunoturbidimetric Reference Range(s)
+<5 Years   <100 IU/mL
+5-20 Years  <250 IU/mL >=21 Years  <200 IU/mL
+Alternative Name(s) Preferred Specimen(s) Minimum Volume
+Streptolysin-O Antibody,ASO,Strep A,Streptococcus, Group A
+1 mL serum
+0.5 mL
+Transport Container Serum Separator Tube (SST®)
+Specimen Stability
+* Room temperature: 72 hours
+* Refrigerated: 5 days
+* Frozen: 30 days
+Reject Criteria
+Gross hemolysis <>
+Methodology Assay Category
+Fluorescence in situ Hybridization (FISH)
+This test was developed and its analytical performance characteristics have been determined by Quest Diagnostics. It has not been cleared or approved by FDA. This assay has been validated pursuant to the CLIA regulations and is used for clinical purposes. Reference Range(s)
+See Laboratory Report
+Alternative Name(s) Acute Myeloid Leukemia (M2)
+Preferred Specimen(s) Alternative Specimen(s) Minimum Volume Transport Container
+5 mL whole blood or 3 mL bone marrow collected in a sodium heparin (green-top) tube
+Sodium heparin (royal blue-top) tube * Sodium heparin lead-free (tan-top) tube
+1 mL
+Sodium heparin (green-top) tube
+Transport Temperature Specimen Stability
+Room temperature
+*  Specimen viability decreases during transit. Send specimen to testing lab for viability determination. Do not freeze. Do not Reject. <>
+Methodology Assay Category
+Liquid Chromatography/Tandem Mass Spectrometry (LC/MS/MS)
+This test was developed and its analytical performance characteristics have been determined by Quest Diagnostics. It has not been cleared or approved by FDA. This assay has been validated pursuant to the CLIA regulations and is used for clinical purposes. Reference Range(s)
+10-Hydroxycarbazepine  8.0-35.0 mcg/mL
+Alternative Name(s)
+Hydroxycarbazepine,10-Hydroxycarbazepine,Trileptal Preferred Specimen(s)
+1 mL serum collected in a red-top tube (no gel) Alternative Specimen(s)
+Plasma collected in: EDTA (lavender-top) tube
+Minimum Volume Transport Container Transport Temperature Specimen Stability
+0.25 mL
+Transport tube
+Refrigerated (cold packs)
+* Room temperature: 72 hours
+* Refrigerated: 14 days
+* Frozen: 60 days
+Reject Criteria
+Serum Separator Tube (SST®) <>
+Methodology Assay Category
+Chromatography/Mass Spectrometry
+This test was developed and its analytical performance characteristics have been determined by Quest Diagnostics. It has not been cleared or approved by the FDA. This assay has been validated pursuant to the CLIA regulations and is used for clinical purposes. Reference Range(s)
+See Laboratory Report
+Alternative Name(s) Preferred Specimen(s) Alternative Specimen(s)
+Compound S,Metyrapone Response
+1 mL serum collected in a red-top tube (no gel)
+Plasma collected in: EDTA (lavender-top) * EDTA (royal blue-top) * Sodium heparin (green-top)
+* Lithium heparin (green-top)
+Minimum Volume Collection Instructions
+0.25 mL
+Separate serum after clotting. Ship serum refrigerated or frozen. Do not submit glass tubes. An early morning specimen is preferred. Transport Container
+Transport tube
+Transport Temperature Specimen Stability
+Frozen
+* Room temperature: 4 days
+* Refrigerated: 4 days
+* Frozen: 28 days Reject Criteria
+Serum Separator Tube (SST®) * Glass tube <>
+Methodology Assay Category
+Fluorescence in situ Hybridization (FISH)
+This test was developed and its analytical performance characteristics have been determined by Quest Diagnostics. It has not been cleared or approved by FDA. This assay has been validated pursuant to the CLIA regulations and is used for clinical purposes. Reference Range(s)
+See Laboratory Report
+Preferred Specimen(s)
+3 mL bone marrow or 5 mL whole blood collected in a sodium heparin (green-top) tube
+Alternative Specimen(s) Minimum Volume Transport Container Transport Temperature Specimen Stability
+Sodium heparin (royal blue-top) tube * Sodium heparin lead-free (tan-top) tube
+1 mL bone marrow * 3 mL whole blood
+Sodium heparin (green-top) tube
+Room temperature
+*  Specimen viability decreases during transit. Send specimen to testing lab for viability determination. Do not freeze. Do not reject. <>
+Test Synonyms
+13q14.3, del(13q14.3)
+Associations
+Chronic lymphocytic leukemia (CLL), Non-Hodgkin lymphoma (NHL), Mantle cell lymphoma (MCL), Myeloma
+Methodology
+Fluorescence in situ Hybridization (FISH)
+Turnaround Time 3-5 days
+Specimen Requirements
+5mL peripheral blood in sodium heparin
+3mL bone marrow in sodium heparin
+Fixed cytogenetically prepared cells in sterile centrifuge tube with pellet visible in 3:1, Methanol:Acetic Acid
+Specimen Stability
+Blood and bone marrow = 4°C to 25°C, specimens are stable up to 72 hours
+Fixed cell pellets are stable for years when stored at -28°C to 15°C
+Storage & Handling
+4°C to 25°C during transit, but specimens may be transported on refrigerated gel packs. Do not allow the gel pack to come in contact with the specimen. Do not freeze. Extreme temperatures should be avoided.
+Causes for Rejection
+Clotted specimen; Specimen exposed to extreme temperature; Anticoagulant toxic to cells;
+Insufficient number of cells
+Reference Range
+In a normal cell, the expected pattern is the two orange signal pattern. An abnormal cell has the one orange signal pattern.
+Description
+Deletion of 13q is found in a wide variety of myeloid and lymphoid malignancies. Among myeloid disorders, deletion 13 is commonly associated with myelodysplastic syndromes, acute myelogenous leukemia and myeloproliferative disorders. The prognostic implications of 13q deletions in myeloid disorders are unclear.
+Among lymphoid disorders, deletion 13q is found in chronic lymphocytic leukemia, nonHodgkin lymphoma and mantle cell lymphoma. More recently, 13q deletion has been identified as a fairly common defect in multiple myeloma. Deletion 13q is the most common deletion in CLL, found in more than 60% of cases by FISH. When it occurs as the sole chromosome abnormality in typical CLL, deletion 13q14 is associated with a good prognosis. In the presence of other chromosome abnormalities, the favorable outcome is diminished. In NHL, deletion 13q is associated with a low rate of complete remission and a shorter survival. In multiple myeloma, deletion of chromosome 13 is associated with a poor response to chemotherapy and a shorter survival
+FISH can detect this deletion in either interphase or metaphase cells. <>
+Clinical Significance
+17-Hydroxyprogesterone - 17-Hydroxyprogesterone is elevated in patients with Congenital Adrenal Hyperplasia (CAH). CAH is a group of autosomal recessive diseases characterized by a deficiency of cortisol and an excess of ACTH concentration. 17-Hydroxyprogesterone is also useful in monitoring cortisol replacement therapy and in evaluating infertility and adrenal and ovarian neoplasms. Methodology
+Chromatography/Mass Spectrometry
+Assay Category
+This test was developed and its analytical performance characteristics have been determined by Quest Diagnostics. It has not been cleared or approved by FDA. This assay has been validated pursuant to the CLIA regulations and is used for clinical purposes. Reference Range(s)
+Adult Males
+18-30 years  32-307 ng/dL
+31-40 years  42-196 ng/dL
+41-50 years  33-195 ng/dL
+51-60 years  37-129 ng/dL
+Adult Females
+Pre-Menopausal Mid Follicular  23-102 ng/dL
+Pre-Menopausal Surge  67-349 ng/dL
+Pre-Menopausal Mid Luteal  139-431 ng/dL
+Postmenopausal Phase  ≤45 ng/dL Pregnancy
+First Trimester  78-457 ng/dL
+Second Trimester  90-357 ng/dL
+Third Trimester  144-578 ng/dL
+
+Pediatric
+Cord Blood**  1000-3000 ng/dL
+Premature Infants** (31-35 weeks) ≤405 ng/dL
+Term Infants (12 hrs)**  <460 ng/dL
+Values decline gradually to prepubertal levels
+
+Male and Female
+  <30 days  Not established
+  1-11 months  ≤147 ng/dL
+  1 year  ≤139 ng/dL
+  2 years  ≤134 ng/dL
+  3 years  ≤131 ng/dL
+  4 years  ≤131 ng/dL
+  5 years  ≤133 ng/dL
+  6 years  ≤137 ng/dL
+  7 years  ≤145 ng/dL
+  8 years  ≤154 ng/dL
+  9 years  ≤166 ng/dL
+  10 years  ≤180 ng/dL
+  11 years  ≤196 ng/dL
+  12 years  ≤213 ng/dL
+  13 years  ≤233 ng/dL
+  14 years  ≤254 ng/dL
+  15 years  19-276 ng/dL
+16 years  23-300 ng/dL
+17 years  26-325 ng/dL
+
+Tanner Stages**
+II-III Males  12-130 ng/dL
+II-III Females  18-220 ng/dL
+IV-V Males  51-190 ng/dL
+IV-V Females  36-200 ng/dL
+
+**Includes data from J Clin Endocrinol Metab.1991;73:674-686; J Clin Endocrinol Metab. 1989; 69:1133-1136; and J Clin Endocrinol Metab. 1994; 78:266-270. Pediatr Res 1988;23:525-529. MedLinePlus (accessed 6/16/14).
+Alternative Name(s) Preferred Specimen(s)
+OH-Progesterone,17-Alpha-Hydroxprogesterone,17-OHP
+0.5 mL serum collected in a red-top tube (no gel) Alternative Specimen(s)
+Plasma collected in: EDTA (royal blue-top) tube, sodium heparin (green-top) tube, lithium heparin (green-top) tube or EDTA (lavender-top) tube
+Minimum Volume Collection Instructions Transport Container Transport Temperature Specimen Stability
+0.25 mL
+Separate serum after clotting. Ship serum refrigerated or frozen. Do not submit glass tubes.
+Transport tube
+Refrigerated (cold packs)
+* Room temperature: 48 hours
+* Refrigerated: 7 days
+* Frozen: 2 years
+Reject Criteria
+Serum Separator Tube (SST®) * Glass tubes * Received room temperature <>
+Mnemonic
+HYD CORT
+Methodology
+Quantitative Colorimetry
+Performed
+Wed, Sat
+Reported
+3-7 days
+New York DOH Approval Status
+This test is New York DOH approved.
+Specimen Required
+Patient Preparation Collect
+24-hour urine. Refrigerated during collection. Also acceptable: Random urine. Freeze within 15 minutes of collection, preservative not required. Reported as mg/L, no reference interval provided.
+Specimen Preparation
+Transfer 12 mL aliquot of urine from a well-mixed 24-hour collection to ARUP Standard Transport Tubes. Also acceptable: Specimens refrigerated with preservatives are acceptable. Sample pH must be 5.0 - 7.0. Mix well, add 1 g boric acid/100 mL urine, adjust pH (with boric acid) to 5.0-7.0 and freeze. Record total volume, collection time, and pH on transport tube and test request form. Random specimens without preservative are acceptable if frozen within 15 minutes of collection. Storage/Transport Temperature Frozen.
+Unacceptable Conditions
+Alkali preservatives (e.g. specimens previously preserved with NaOH).
+Remarks
+Stability
+Ambient: 4 hours (with preservative); Refrigerated: 1 week (with preservative); Frozen: 1 month Reference Interval
+Available
+Separately  Components  Reference Interval
+   17 OH-Corticosteroids, Urine - mg/g CRT  2.0-6.5 mg/g crt
+   OH-Corticosteroids, Urine - per volume  4.0-14.0 mg/d
+0020473
+Creatinine, Urine - per 24h
+   Age  Male  Female
+   3-8 years  140-700 mg/d  140-700 mg/d
+   9-12 years  300-1300 mg/d  300-1300 mg/d
+   13-17 years  500-2300 mg/d  400-1600 mg/d
+
+Available
+Separately  Components  Reference Interval
+   18-50 years  1000-2500 mg/d  700-1600 mg/d
+   51-80 years  800-2100 mg/d  500-1400 mg/d
+   81 years and older  600-2000 mg/d  400-1300 mg/d
+
+ <>
+How the Test is Performed
+
+A 24-hour urine sample is needed. You will need to collect your urine over 24 hours. Your health care provider will tell you how to do this. Follow instructions exactly to ensure accurate results.
+
+How to Prepare for the Test
+
+Your provider will ask you to temporarily stop any medicines that may affect the test results. Be sure to tell your provider about all the medicines you take. These include:
+
+    Antibiotics
+    Aspirin (if you are on long-term aspirin)
+    Birth control pills
+    Diuretics (water pills)
+    Estrogen
+
+DO NOT stop taking any medicine before talking to your provider.
+
+How the Test will Feel
+
+The test involves normal urination. There is no discomfort.
+
+Why the Test is Performed
+
+Your provider may order this test if you have signs of a disorder associated with abnormal levels of androgens.
+
+Normal Results
+
+Normal values are as follows:
+
+    Male: 7 to 20 mg per 24 hours
+    Female: 5 to 15 mg per 24 hours
+
+Normal value ranges may vary slightly among different laboratories. Some labs use different measurements or test different samples. Talk to your doctor about the meaning of your specific test results.  <>
+Test Code:
+DEL17P (Non-Blood Sample), BD17P (Blood Sample) Technique:
+Fluorescence in situ Hybridization Description:
+DEL17P (Non-Blood Sample): Fluorescence in Situ Hybridization (FISH) is performed using the TP53/CEP17 FISH probe to detect abnormal copy numbers of chromosome 17 and the deletion of chromosome 17p13.1 (TP53) from non-blood samples.
+ BD17P (Blood Sample): Fluorescence in Situ Hybridization (FISH) is performed using the TP53/CEP17 FISH probe to detect abnormal copy numbers of chromosome 17  and the deletion of chromosome 17p13.1 (TP53) from leukemic blood samples.
+Specimen Preparation
+Keep at room temperature, do not centrifuge
+Preferred Volume
+Whole blood: 2 mL
+Bone marrow aspirate: 2 mL
+Bone marrow biopsy: 2 cm
+Minimum Volume
+Whole blood: 1 mL
+Bone marrow aspirate: 1 mL
+Bone marrow biopsy: 1 cm
+Unacceptable Conditions
+Frozen, leaking or unlabeled samples
+Stability (from collection to initiation)
+Room temperature 2 days <>
+Methodology Assay Category
+Enzyme Linked Immunosorbent Assay (ELISA)
+Reference Range(s) Preferred Specimen(s) Minimum Volume Collection Instructions Transport Container Transport Temperature Specimen Stability
+Negative
+0.5 mL serum
+0.3 mL
+Transfer serum to a plastic transport vial and ship at room temperature.
+Transport tube
+Room temperature
+* Room temperature: 5 days
+* Refrigerated: 14 days
+* Frozen: 60 days
+Reject Criteria
+Gross hemolysis * Grossly icteric <>
+Patient Preparation
+Fasting preferred, but not required
+Methodology Immunoassay (IA)
+Reference Range(s) Alternative Name(s) Preferred Specimen(s) Minimum Volume Transport Container Transport Temperature Specimen Stability
+30-100 ng/mL
+25 OH Vitamin D,Vitamin D, 25-OH,25-Hydroxy Vitamin D,Vitamin D, 25-Hydroxy
+0.8 mL serum
+0.5 mL
+Transport tube
+Room temperature
+* Room temperature: 7 days
+* Refrigerated: 7 days
+* Frozen: 28 days <>
+
+Methodology Assay Category
+Fluorescence in situ Hybridization (FISH)
+This test was developed and its analytical performance characteristics have been determined by Quest Diagnostics. It has not been cleared or approved by FDA. This assay has been validated pursuant to the CLIA regulations and is used for clinical purposes. Reference Range(s)
+See Laboratory Report
+Preferred Specimen(s) Alternative Specimen(s) Minimum Volume Transport Container Transport Temperature Specimen Stability
+3 mL bone marrow or 5 mL whole blood collected in a sodium heparin (green-top) tube
+Sodium heparin (royal blue-top) tube * Sodium heparin lead-free (tan-top) tube
+1 mL bone marrow * 3 mL whole blood
+Sodium heparin (green-top) tube
+Room temperature
+ *  Specimen viability decreases during transit. Send specimen to  <>
+Clinical Significance
+5' Nucleotidase - 5'-Nucleotidase (5'-NT) assay kit is for the determination of 5'-NT activity in human serum samples. 5'-NT is an enzyme catalyzing the hydrolysis of nucleoside-5'-mono- phosphates to nucleosides and inorganic phosphate. The enzyme is widely distributed in human and animal tissues. The activity present in sera is released from membranes of liver cells by bile salts and has been used as a marker for liver disease. Healthy subjects have a 5'-NT activity in the range of 0-10 U/L. Increased enzyme levels in sera are associated with certain forms of liver disease, such as intra- or extra-hepatic obstruction and particularly in cases of hepatic carcinoma and in mastectomy patients with recurrent metastases. The diagnostic value of 5'-NT has been shown to be superior to other liver enzymes, especially in cases of liver metastasis.
+Methodology Reference Range(s) Preferred Specimen(s) Minimum Volume Collection Instructions
+Colorimetric (C) * Kinetic
+0-10 U/L
+1 mL serum
+0.2 mL
+Centrifuge and transfer serum specimens to a clean, plastic transport tube. Freeze and ship frozen.
+Transport Container Transport Temperature Specimen Stability
+Transport tube
+Frozen
+* Room temperature: Unacceptable
+* Refrigerated: 7 days
+* Frozen: 14 days
+Reject Criteria
+Received room temperature <>
+5-HIAA is a urine test that measures the amount of 5-hydroxyindoleacetic acid (5-HIAA). 5HIAA is a breakdown product of a hormone called serotonin.
+This test tells how much 5-HIAA the body is producing. It is also a way to measure how much serotonin is in the body.
+How the Test is Performed
+A 24-hour urine sample is needed. You'll need to collect your urine over 24 hours in a container provided by the laboratory. Your health care provider will tell you how to do this. Follow instructions exactly. How to Prepare for the Test
+
+Your provider will instruct you, if necessary, to stop taking medicines that may interfere with the test.
+
+Medicines that can increase 5-HIAA measurements include acetaminophen (Tylenol), acetanilide, phenacetin, glyceryl guaiacolate (found in many cough syrups), methocarbamol, and reserpine.
+
+Medicines that can decrease 5-HIAA measurements include heparin, isoniazid, levodopa, monoamine oxidase inhibitors, methenamine, methyldopa, phenothiazines, and tricyclic antidepressants.
+
+You will be told not to eat certain foods for 3 days before the test. Foods that can interfere with 5-HIAA measurements include plums, pineapples, bananas, eggplant, tomatoes, avocados, and walnuts.
+How the Test will Feel
+
+The test involves only normal urination, and there is no discomfort.
+Why the Test is Performed
+
+This test measures the level of 5-HIAA in the urine. It is often done to detect certain tumors in the digestive tract (carcinoid tumors) and to track a person's condition.
+
+The urine test may also be used to diagnose a disorder called systemic mastocytosis and some tumors of the hormone.
+Normal Results
+
+The normal range is 2 to 9 mg/24h (10.4 to 46.8 µmol/24h).
+
+Normal value ranges may vary slightly among different laboratories. Some labs use different measurements or test different samples. Talk to your provider about the meaning of your specific test results. <>
+Methodology Assay Category
+Fluorescence in situ Hybridization (FISH)
+This test was developed and its analytical performance characteristics have been determined by Quest Diagnostics. It has not been cleared or approved by FDA. This assay has been validated pursuant to the CLIA regulations and is used for clinical purposes. Reference Range(s)
+See Laboratory Report
+Alternative Name(s)
+Acute Myelogenous Leukemia (AML),Myelodysplastic Syndrome (MDS),Myeloproliferative Disorders (MPD)
+Preferred Specimen(s) Alternative Specimen(s) Minimum Volume Transport Container Transport Temperature Specimen Stability
+5 mL whole blood or 3 mL bone marrow collected in a sodium heparin (green-top) tube
+Sodium heparin (royal blue-top) tube * Sodium heparin lead-free (tan-top) tube
+1 mL
+Sodium heparin (green-top) tube
+Room temperature
+*  Specimen viability decreases during transit. Send specimen to testing lab for viability determination. Do not freeze. Do not Reject. <>
+Total Protein and Albumin/Globulin (A/G) Ratio
+Email this page to a friend Print Facebook Twitter Pinterest What is a total protein and albumin/globulin (A/G) ratio test?
+
+A total protein and albumin/globulin (A/G) ratio test measures the total amount of protein in your blood. There are two major types of protein in the blood:
+
+    Albumin, which helps keep blood from leaking out of blood vessels. It also helps move hormones, medicines, vitamins, and other important substances throughout the body. Albumin is made in the liver.     Globulins, which help fight infection and move nutrients throughout the body. Some globulins are made by the liver. Others are made by the immune system.
+
+The test also compares the amount of albumin in your blood to the amount of globulin. The comparison is called the albumin/globulin (A/G) ratio.
+
+If your total protein levels or A/G ratio results are not normal, it can be a sign of a serious health problem.
+Interpreting test results
+Total protein is measured in grams of protein per deciliter of blood (g/dL). You will find the total protein result on your test report along with a reference range for the laboratory that performed the test.
+It is important to consider your total protein levels in relation to the reference range listed on your specific report. Ranges can vary based on the laboratory, so there is no universally accepted normal range for total protein.
+The American Board of Internal Medicine lists the following reference ranges for a test of proteins in the blood:
+ *  Total proteins: 5.5 to 9.0 g/dL
+* Albumin: 3.5 to 5.5 g/dL
+* Globulins: 2.0 to 3.5 g/dL
+Other names: total serum protein, TP albumin/globulin ratio What is it used for?
+A total protein and A/G ratio test is often included as part of a comprehensive metabolic panel, a test that measures proteins and other substances in the blood. It may also be used to help diagnose kidney disease, liver disease, or nutritional problems.
+Why do I need a total protein and A/G ratio test?
+
+You may get this test as part of a comprehensive metabolic panel, which is often included in a routine checkup. You may also need this test if you have symptoms that indicate abnormal protein levels. These include:
+    Swelling in the feet, ankles, legs, and/or abdomen, which is caused by extra fluid in your tissues
+    Fatigue
+    Unexplained weight loss
+    Loss of appetite
+    Nausea and vomiting
+    Jaundice (yellowing of the skin or eyes). This is a common symptom of liver disease.     Blood in the urine, a common symptom of kidney disease
+
+What happens during a total protein and A/G ratio test?
+A health care professional will take a blood sample from a vein in your arm, using a small needle. After the needle is inserted, a small amount of blood will be collected into a test tube or vial. You may feel a little sting when the needle goes in or out. This usually takes less than five minutes. Will I need to do anything to prepare for this test?
+
+You don't need any special preparations for a total protein and A/G ratio test. Are there any risks to this test?
+
+There is very little risk to having a blood test. There may be slight pain or bruising at the spot where the needle was put in, but most symptoms go away quickly.
+What do the results mean?
+
+Your results will show whether you have normal, low, or high total protein levels. They will also show if you have a normal, low, or high albumin to globulin (A/G) ratio.
+
+If your total protein levels were low, it may mean you have one of the following conditions:
+    Liver disease
+    Kidney disease
+    Malnutrition, a condition in which your body does not get the calories, vitamins, and/or minerals needed for good health
+    A malabsorption syndrome, a type of disorder in which your small intestine can't absorb enough nutrients from food. Malabsorption syndromes include celiac disease and Crohn's disease.
+
+If your total protein levels were high, it may mean you have one of the following conditions:
+    An infection such as HIV or viral hepatitis
+    Multiple myeloma, a type of blood cancer
+
+If your A/G ratio was low, it may be caused by:
+    An autoimmune disease, such as lupus
+    Liver disease, including cirrhosis
+    Kidney disease
+
+If your A/G ratio was high, it may be caused by:
+    Certain types of genetic disorders
+    Leukemia <>
+Acetylcholine receptor antibody is a protein found in the blood of many people with myasthenia gravis. The antibody affects signals that are sent from nerves to muscles.
+
+How the Test is Performed ?
+A blood sample is needed. Most of the time, blood is drawn from a vein located on the inside of the elbow or the back of the hand.
+
+How to Prepare for the Test ?
+Most of the time you do not need to take special steps before this test.
+
+How the Test will Feel?
+You may feel slight pain or a sting when the needle is inserted. You may also feel some throbbing at the site after the blood is drawn.
+
+Why the Test is Performed?
+This test is used to help diagnose myasthenia gravis.
+
+Normal Results
+Normally, there is no acetylcholine receptor antibody (or less than 0.05 nmol/L) in the bloodstream. Note: Normal value ranges may vary slightly among different laboratories. Talk to your doctor about the meaning of your specific test results.
+The example above shows the common measurement for results for these tests. Some laboratories use different measurements or may test different specimens.
+
+What Abnormal Results Mean?
+An abnormal result means acetylcholine receptor antibody has been found in your blood. It confirms the diagnosis of myasthenia gravis in people who have symptoms. Nearly one half of people with myasthenia gravis that is limited to their eye muscles (ocular myasthenia gravis) have this antibody in their blood. However, the lack of this antibody does not rule out myasthenia gravis. About 1 in 5 people with myasthenia gravis do not have signs of this antibody in their blood. Your provider may also consider testing you for the muscle specific kinase (MuSK) or other antibodies. <>
+Clinical Significance
+Prostatic Acid Phosphatase (PAP) - High concentrations of acid phosphatase are found in the prostate gland. Significant amounts are also found in platelets, bone, spleen, kidney and liver.
+Methodology Immunoassay (IA)
+Reference Range(s)
+Adult Male  <2.8 ng/mL
+Alternative Name(s) Preferred Specimen(s) Minimum Volume Collection Instructions
+PAP Male,Male PAP
+1 mL serum
+0.5 mL
+Samples must be obtained before rectal examination, biopsy, prostatectomy or prostatic massage, since manipulating the prostate gland may lead to elevated PAP levels persisting up to 24-48 hours. Specimens must be frozen if received by the laboratory >24 hours after collection. Transport Container
+Transport tube
+Transport Temperature Specimen Stability
+Frozen
+* Room temperature: 24 hours
+* Refrigerated: 24 hours
+* Frozen: 28 days
+Reject Criteria
+Gross hemolysis <>
+acid phosphatase - total & prostatic
+
+One of the most common types of cancer in men is the prostate cancer. In the initial phase, cancer grows slowly remains confined to the prostate gland and does not possess any serious threat. But if it starts to spread aggressively to the other parts immediate attention is required. The early it is detected better are the chances of successful treatment. One of the commonly used methods to screen for prostate cancer is acid phosphatase test. It is not only used for diagnosis but also to check for the effectiveness of the treatment.
+
+what is acid phosphatase?
+
+It is an enzyme primarily found in the body and also in the prostate gland of males. It is said that the acid phosphatase enzyme found in the prostate gland of the males is 100 times more than what is found in the body. When cancer in the gland rises, the level of the phosphatase enzyme also rises simultaneously. This is used as a basis to diagnose the level of cancer. The enzyme present in the prostate gland is referred to as prostatic acid phosphatase.
+
+
+
+how is psa test carried out?
+
+No special preparation is required before the phosphatase test, and a routine blood sample is collected. The prostatic acid phosphatase test requires about 5-10ml of blood, and it is important that the patient does not have a prostate massage before the test. To determine from which tissue the enzyme is coming to the technician measures the amount of the enzyme in the sample. This is done to differentiate if it is from the prostate gland or the red blood cells. The enzyme is known to react differently to different chemicals. Generally, chemical tartrate is added to the sample to inhibit the activity of prostatic phosphatase. While the phosphatase from the rbc’s remains unaffected. This helps the technician understand how much of the person’s total acid phosphatase is coming from the prostate gland and other tissues.
+
+what is a psa test?
+
+PSA or prostate specific antigen is defined as a protein that could be produced by the both normal and the malignant prostate gland cells. This is also known as the serum acid phosphatase test and evaluates the PSA levels in the blood. An acid phosphatase assay kit could be used to measure the level of enzyme in the blood serum.
+
+how to interpret the results?
+
+To interpret the results, it is important to know the acid phosphatase normal range in the body which is equal to 2 ng/mL. This prostatic acid phosphatase normal range is used as a base to interpret the results from the PAP test. According to doctors, normal PSA in the blood is about 4.0 ng/mL and anything above this could signify the presence of prostate cancer. As a next step, the doctor recommends for a prostate biopsy for more conclusive evidence. The acid phosphatase test today is also being used by forensic scientists as an investigative tool. The acid phosphatase test forensics helps in the identification of seminal stains in rape cases. Semen is known to contain the acid phosphatase enzyme in abundance. Hence the test can be used as a tool to detect the presence of acid phosphatase substrate on the offenders' clothes, carpets, floors and vaginal and rectal parts of the victim. <>
+Ordering Recommendation
+
+Total acid phosphatase (AP) activity may be useful when evaluating for prostate cancer, Paget's disease, hyperparathyroidism with skeletal involvement, and Gaucher's disease since elevations in AP activity occur in these conditions.
+
+
+
+
+Specimen Required
+
+Collect: Plain red.
+
+Specimen Preparation: Allow specimen to clot completely at room temperature. Transfer 1.5 mL serum to an ARUP Standard Transport Tube. (Min: 0.5 mL)
+
+Storage/Transport Temperature: CRITICAL FROZEN. Separate specimens must be submitted when multiple tests are ordered.
+
+Unacceptable Conditions: Plasma. Non-frozen specimens. Hemolyzed specimens.
+
+Stability: After separation from cells: Ambient: Unacceptable; Refrigerated: Unacceptable; Frozen: 1 month
+
+Reference Interval: 0.0-4.3 U/L

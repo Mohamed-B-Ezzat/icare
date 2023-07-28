@@ -1,0 +1,10 @@
+BCG<>Bacille Calmette-Guérin vaccine<>birth<>-------
+DTwPHibHepB<>Diphtheria and Tetanus and Pertussis and influenzae and Hepatitis B vaccine<>6, 10, 14 weeks<>-------
+HepB_Pediatric<>Hepatitis B pediatric dose vaccine<>birth<>-------
+HPV<>Human Papillomavirus vaccine<>-------<>Planned introduction in November 2021
+IPV<>Inactivated polio vaccine<>14 weeks<>-------
+Measles<>Measles vaccine<>9, 18 months<>-------
+OPV<>Oral polio vaccine<>birth; 6, 10, 14 weeks; 9 months<>-------
+Pneumo_conj<>Pneumococcal conjugate vaccine<>6, 10, 14 weeks<>-------
+Rotavirus<>Rotavirus vaccine<>6, 10 weeks<>-------
+Td<>Tetanus and diphtheria toxoid for older children / adults vaccube<>1st contact; +1, +6 months, +1, +1 year<>15-45 years (WCBA)
