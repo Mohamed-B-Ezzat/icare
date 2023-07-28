@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "565149303978",
+    "project_id": "pc-api-5861150931295770359-204",
+    "storage_bucket": "pc-api-5861150931295770359-204.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:565149303978:android:04546ec358b3c4de68bcd3",
+        "android_client_info": {
+          "package_name": "com.icareapp.medical.icare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "565149303978-bcgmtn9m8rprkl4drflvfhqq509aomtc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.icareapp.medical.icare",
+            "certificate_hash": "0318b5e6fd764c8268c45d867fde5c600d1bc2ab"
+          }
+        },
+        {
+          "client_id": "565149303978-dsou1njnu6stob20d1e237cfk40s6lgs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.icareapp.medical.icare",
+            "certificate_hash": "7403841321d90058cdaaaf08f31cf3a3d3dc3b4f"
+          }
+        },
+        {
+          "client_id": "565149303978-rlq7hbjpi3kkcurbq07qe5fageoh9kmi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.icareapp.medical.icare",
+            "certificate_hash": "ecde3bb0ed3b85bbbc17a9ecc8f6fd059808baee"
+          }
+        },
+        {
+          "client_id": "565149303978-69s14dhh4ob88lin8i5hn753scnk3ih8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTFdtYFcpoczv6_uyVI9C8jtpqsMbq8xE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "565149303978-69s14dhh4ob88lin8i5hn753scnk3ih8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

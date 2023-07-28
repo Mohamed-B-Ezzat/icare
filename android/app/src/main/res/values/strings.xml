@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ICare</string>
+    <string name="facebook_app_id">187624073357540</string>
+    <string name="fb_login_protocol_scheme">fb532146818597684</string>
+    <string name="facebook_client_token">c738e0569d9cc31c7ec206ce765d0a1a</string>
+
+
+</resources>
